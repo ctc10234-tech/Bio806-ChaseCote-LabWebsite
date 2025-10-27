@@ -3,16 +3,19 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_1669.jpg
 ---
 
 :::{#me}
-
+Hello my name is Chase im from NH and I a wildlife biology MS. My research focuses on Vibrio Bacterias in mallards.
 ## Goals
+Graduate and get a job with wildlife state or federal agency
 
 ## Education
+UNH Wildlife Biology BS 2022 
 
 ## Experience
+Many state and federal wildlife jobs 2018-2025
 
 :::
 
