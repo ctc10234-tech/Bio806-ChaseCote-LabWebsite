@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I just finished my mid term for this class"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "I just finished my mid term for this class"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nIll e working on my Final for tis class using my own projects data"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nIm currently writting my perspectus for my project"
   },
   {
     "objectID": "index.html",
@@ -19,13 +33,6 @@
     "title": "About Me",
     "section": "",
     "text": "Hello my name is Chase im from NH and I a wildlife biology MS. My research focuses on Vibrio Bacterias in mallards. ## Goals Graduate and get a job with wildlife state or federal agency\n\n\nUNH Wildlife Biology BS 2022\n\n\n\nMany state and federal wildlife jobs 2018-2025\nThanks for checking out my web site!"
-  },
-  {
-    "objectID": "index.html#goals",
-    "href": "index.html#goals",
-    "title": "About Me",
-    "section": "",
-    "text": "Graduate and get a job with wildife state or federal agency"
   },
   {
     "objectID": "index.html#education",

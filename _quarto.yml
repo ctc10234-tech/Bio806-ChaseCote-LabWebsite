@@ -9,11 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
+        text: Projects
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
-        href:https://github.com/ctc10234-tech/Bio806-ChaseCote-LabWebsite.git
+        href: https://github.com/ctc10234-tech/Bio806-ChaseCote-LabWebsite.git
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2025, Chase Cote"
