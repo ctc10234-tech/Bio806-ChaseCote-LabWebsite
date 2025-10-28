@@ -7,7 +7,8 @@ about:
 ---
 
 :::{#me}
-Hello my name is Chase im from NH and I a wildlife biology MS. My research focuses on Vibrio Bacterias in mallards.
+Hello my name is Chase im from Raymond NH. At UNH I a wildlife biology MS. My research focuses on Vibrio Bacterias in mallards.
+
 ## Goals
 Graduate and get a job with wildlife state or federal agency
 
